@@ -21,6 +21,7 @@ const perguntas = [
     },
     function aleatorio(lista) {
         const posicao = math.random()*lista.length;
-        
+        const posicao =math.flor( math.random()* lista . length);
+
     }
     {
